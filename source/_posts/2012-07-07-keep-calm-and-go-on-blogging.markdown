@@ -31,6 +31,8 @@ categories: funny
 
 {% img http://placekitten.com/890/280 'Testing image tag' 'Testing image tag' %}
 
+#### Code Block
+
 ```
 $ sudo make me a sandwich
 ```
@@ -43,10 +45,14 @@ class Fixnum
 end
 ```
 
+#### Gist Tag
+
 {% gist 996818 %}
 
 {% gist 1059334 svg_bullets.rb %}
 {% gist 1059334 usage.scss %}
+
+#### Graphviz (Awesome!)
 
 {% graphviz %}
 digraph G {
