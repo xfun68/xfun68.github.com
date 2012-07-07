@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://xfun68.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: 'http://xfun68.github.com'
+title: 'ALL is WELL'
+subtitle: '静者心多妙 超然思不群'
+author: '王晓峰(Panda Wang)'
 simple_search: http://google.com/search
 description:
 
@@ -89,7 +89,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: 'all-is-well'
 disqus_show_comment_count: false
 
 # Google Analytics
