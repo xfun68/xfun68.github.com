@@ -15,6 +15,8 @@ categories: funny
 
 ![Keep caml and go on blogging](/images/keep_calm_and_go_on_blogging.png "Keep Caml and Go On Blogging")
 
+<!-- more -->
+
 此帖及煽情、搞笑、测试于一身。过了下面这条线，就是测试区域了。
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
