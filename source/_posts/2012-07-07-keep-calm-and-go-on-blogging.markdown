@@ -39,3 +39,24 @@ end
 
 {% gist 1059334 svg_bullets.rb %}
 {% gist 1059334 usage.scss %}
+
+{% graphviz %}
+digraph G {
+  compound=true;
+  subgraph cluster0 {
+  a -> b;
+  a -> c;
+  b -> d;
+  c -> d;
+  }
+  subgraph cluster1 {
+  e -> g;
+  e -> f;
+  }
+  b -> f [lhead=cluster1];
+  d -> e;
+  c -> g [ltail=cluster0, lhead=cluster1];
+  c -> e [ltail=cluster0];
+  d -> h;
+}
+{% endgraphviz %}
