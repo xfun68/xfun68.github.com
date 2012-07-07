@@ -13,7 +13,7 @@ categories: funny
 
 于此自勉！
 
-![Keep caml and go on blogging](/images/keep_calm_and_go_on_blogging.png "Keep Caml and Go On Blogging")
+{% img /images/keep_calm_and_go_on_blogging.png 'Keep Caml and Go On Blogging' 'Keep caml and go on blogging' %}
 
 <!-- more -->
 
@@ -22,6 +22,14 @@ categories: funny
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 烦请客观您自重，闲人止步。:P
+
+#### Image Tag
+
+``` ruby
+{% img [class names] /path/to/image [width] [height] [title text [alt text]] %}
+```
+
+{% img http://placekitten.com/890/280 'Testing image tag' 'Testing image tag' %}
 
 ```
 $ sudo make me a sandwich
