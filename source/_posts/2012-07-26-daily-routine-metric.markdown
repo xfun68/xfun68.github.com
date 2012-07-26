@@ -9,6 +9,8 @@ styles: [data-table]
 
 A metric to track my each item in my daily routine.
 
+<!-- more -->
+
 Date       |  Get Up  |  BB |  Run | Pushup | Abs | Vegetarian
 ----------:|:--------:|:---:|:----:|:------:|:---:|:----------:
 2012/07/25 | 06:10 am |  1  | 4 km |    0   |  0  | √
