@@ -7,7 +7,7 @@ categories:
 styles: [data-table]
 ---
 
-A metric to track my each item in my daily routine.
+A metric to track each item in my daily routine.
 
 <!-- more -->
 
