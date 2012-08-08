@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[ALL is WELL]]></title>
+  <link href="http://xfun68.github.com/atom.xml" rel="self"/>
+  <link href="http://xfun68.github.com/"/>
+  <updated>2012-08-07T21:25:28-03:00</updated>
+  <id>http://xfun68.github.com/</id>
+  <author>
+    <name><![CDATA[王晓峰(Panda Wang)]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Daily Routine Metric]]></title>
+    <link href="http://xfun68.github.com/blog/2012/07/26/daily-routine-metric/"/>
+    <updated>2012-07-26T06:02:00-03:00</updated>
+    <id>http://xfun68.github.com/blog/2012/07/26/daily-routine-metric</id>
+    <content type="html"><![CDATA[<p>A metric to track each item in my daily routine.</p>
+
+<!-- more -->
+
+
+<table>
+<thead>
+<tr>
+<th align="left">Date           </th>
+<th align="center">  Get Up  </th>
+<th align="center">  BB </th>
+<th align="center">  Run (km) </th>
+<th align="center"> Pushup </th>
+<th align="center"> Abs </th>
+<th align="center"> Vegetarian</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">2012/07/25 Wed </td>
+<td align="center">  06:10   </td>
+<td align="center">  1  </td>
+<td align="center">     4     </td>
+<td align="center">    0   </td>
+<td align="center">  0  </td>
+<td align="center"> √</td>
+</tr>
+<tr>
+<td align="left">2012/07/26 Thu </td>
+<td align="center">  05:55   </td>
+<td align="center">  2  </td>
+<td align="center">     0     </td>
+<td align="center">    0   </td>
+<td align="center">  0  </td>
+<td align="center"> √</td>
+</tr>
+<tr>
+<td align="left">2012/07/27 Fri </td>
+<td align="center">  08:16   </td>
+<td align="center">  0  </td>
+<td align="center">     0     </td>
+<td align="center">    0   </td>
+<td align="center">  0  </td>
+<td align="center"> √</td>
+</tr>
+<tr>
+<td align="left">2012/07/28 Sat </td>
+<td align="center">  12:10   </td>
+<td align="center">  0  </td>
+<td align="center">     0     </td>
+<td align="center">    0   </td>
+<td align="center">  0  </td>
+<td align="center"> √</td>
+</tr>
+<tr>
+<td align="left">2012/07/29 Sun </td>
+<td align="center">  10:00   </td>
+<td align="center">  1  </td>
+<td align="center">     0     </td>
+<td align="center">    0   </td>
+<td align="center">  0  </td>
+<td align="center"> √</td>
+</tr>
+<tr>
+<td align="left">2012/07/30 Mon </td>
+<td align="center">  07:30   </td>
+<td align="center">  1  </td>
+<td align="center">     0     </td>
+<td align="center">    0   </td>
+<td align="center">  0  </td>
+<td align="center"> √</td>
+</tr>
+<tr>
+<td align="left">2012/07/31 Tue </td>
+<td align="center">  &#8211;:&#8211;   </td>
+<td align="center">  -  </td>
+<td align="center">     -     </td>
+<td align="center">    -   </td>
+<td align="center">  -  </td>
+<td align="center"> -</td>
+</tr>
+<tr>
+<td align="left">2012/08/01 Tue </td>
+<td align="center">  &#8211;:&#8211;   </td>
+<td align="center">  -  </td>
+<td align="center">     -     </td>
+<td align="center">    -   </td>
+<td align="center">  -  </td>
+<td align="center"> -</td>
+</tr>
+<tr>
+<td align="left">2012/08/02 Tue </td>
+<td align="center">  &#8211;:&#8211;   </td>
+<td align="center">  -  </td>
+<td align="center">     -     </td>
+<td align="center">    -   </td>
+<td align="center">  -  </td>
+<td align="center"> -</td>
+</tr>
+<tr>
+<td align="left">2012/08/03 Tue </td>
+<td align="center">  &#8211;:&#8211;   </td>
+<td align="center">  -  </td>
+<td align="center">     -     </td>
+<td align="center">    -   </td>
+<td align="center">  -  </td>
+<td align="center"> -</td>
+</tr>
+<tr>
+<td align="left">2012/08/04 Tue </td>
+<td align="center">  &#8211;:&#8211;   </td>
+<td align="center">  -  </td>
+<td align="center">     -     </td>
+<td align="center">    -   </td>
+<td align="center">  -  </td>
+<td align="center"> -</td>
+</tr>
+<tr>
+<td align="left">2012/08/05 Tue </td>
+<td align="center">  &#8211;:&#8211;   </td>
+<td align="center">  -  </td>
+<td align="center">     -     </td>
+<td align="center">    -   </td>
+<td align="center">  -  </td>
+<td align="center"> X</td>
+</tr>
+<tr>
+<td align="left">2012/08/06 Tue </td>
+<td align="center">  08:40   </td>
+<td align="center">  0  </td>
+<td align="center">     0     </td>
+<td align="center">    0   </td>
+<td align="center">  0  </td>
+<td align="center"> X</td>
+</tr>
+<tr>
+<td align="left">2012/08/07 Tue </td>
+<td align="center">  07:30   </td>
+<td align="center">  4  </td>
+<td align="center">     0     </td>
+<td align="center">    0   </td>
+<td align="center">  0  </td>
+<td align="center"> √</td>
+</tr>
+</tbody>
+</table>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[做一个素食者]]></title>
+    <link href="http://xfun68.github.com/blog/2012/07/16/be-a-vegetarian/"/>
+    <updated>2012-07-16T22:52:00-03:00</updated>
+    <id>http://xfun68.github.com/blog/2012/07/16/be-a-vegetarian</id>
+    <content type="html"><![CDATA[<h5>Mon Jul 09, 2012</h5>
+
+<p>今天是决心开始素食的第一天。
+在有着烤肉王国之称的巴西做出这样的决定，得需要多大勇气和魄力啊。</p>
+
+<p>说笑放到一边，这里我想和大家分享一下为什么我决心开始素食。</p>
+
+<!-- more -->
+
+
+<h3>肉食太残忍</h3>
+
+<p>肉食的话，食物从哪里来呢？动物，猪牛羊鸡鸭鹅鱼等等、等等。
+天上飞的，地上跑的，水里游的，没有人类吃不着的。
+我们经常在身边、在微博、在别人的讲述里知道种种或卖萌、或感人的关于这些“我们餐桌上”的动物的故事。
+但你可否也在彼时想起，今天的饭菜里，就有他们的同胞。甚至，刚刚还见它们活蹦乱跳呢。</p>
+
+<p>作为所谓的人类，我们总说，动物是我们的好朋友。
+然后呢？
+我们把朋友搬上餐桌，有“朋友”这么对待朋友的吗？</p>
+
+<p>作为所谓的人类，我们也有自己的“人类”朋友。
+你会对他们这么干吗？当然不会！
+那多“惨无人道”、“惨绝人寰”啊！
+那多“令人发指”、“禽兽不如”啊！</p>
+
+<p>是的，问题是：对其它朋友这么做，就能“如”的了禽兽了？对它们的所作所为难道就是“理所当然”的了？
+换个思路，如果餐桌上那些美味的肉食，是来自于所谓的高等动物：人类。（不好意思，这里重口味了。）
+你还有兴趣吗？还是否依然觉得美味无比、兴致盎然？</p>
+
+<p>我生在内蒙古，甚喜肉食。
+但经过很长、很长时间的思考之后，在此刻，在有了上述这些自问以后，我想，也许我可以也应该改变一下。</p>
+
+<p>不过，话说回来，植物难道就不是生命吗？不是经常在公共绿地上见到：“小草也有生命 请君爱惜”。
+那吃素不也是要杀掉它们吗？
+呃，没错。
+可是，我还远远没达到能够回答这个问题的境界，所以，这里我只能“无言以对”了。</p>
+
+<p>其实以前曾经看过一位高僧对这个问题的开示，但由于慧根太浅，已记不清楚。
+我也想再次知道答案。
+也许，只要我们一起怀着慈悲、虔诚、感恩的心对待每一个生命。
+总有一天，答案会找到的。</p>
+
+<h3>健康</h3>
+
+<p>我知道，也许你心里马上会问道：那营养跟得上吗?
+其实这是一个很普通的问题，就像科普知识一样，但真的有非常多的人还是不了解，即便知道也还是心存疑虑。</p>
+
+<p>事实上，素食的营养绝对不比肉食差，甚至更好，更优质，更适合人体。</p>
+
+<p>其实，我的素食行动也是在拿自己做一个实验。</p>
+
+<p>一直以来，经常在各种渠道看到有关素食好处的种种报道，我是相信的。
+但每当与人提及，对方多是不以为然，甚至完全排斥。</p>
+
+<p>我想，最好的方法莫过于自己亲自体验一下了。做到再说到，总是更有说服力的。
+也许3到4个月后，可以得到一个初步的答案。</p>
+
+<h3>环保</h3>
+
+<p>自然环境恶化，温室效应，饥荒，等等这些灾害甚至灾难，与人类的肉食行为有着脱不开的干系。
+其中之奥秘，我现在还没有能力讲的透彻、明白。
+不过，网络上已经有很多这方面的讯息，都是实事求是的调查和研究，有大量的数据和事实佐证。
+如果您有兴趣的话，可以试着接触一下，也许可以改变一点目前那个在你眼中的世界。</p>
+
+<h3>结语</h3>
+
+<p>开始素食的同时，我也决心不再饮酒，即便是葡萄酒、果酒之类。
+望看到此处的各位朋友、同事和家人能够给予理解和支持。</p>
+
+<p>这篇日记算是留个记号，鞭策自己，愿我能坚持下去。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Keep Calm and Go On Blogging]]></title>
+    <link href="http://xfun68.github.com/blog/2012/07/07/keep-calm-and-go-on-blogging/"/>
+    <updated>2012-07-07T17:00:00-03:00</updated>
+    <id>http://xfun68.github.com/blog/2012/07/07/keep-calm-and-go-on-blogging</id>
+    <content type="html"><![CDATA[<p>一直有写博客的想法，也在N久以前在Github上搭了第一个个人博客。
+可是自己三天两头半新鲜，很快就没了热情，加之自己的懒惰，博客基本上一直荒废在那。</p>
+
+<p>今天再次开张，希望比以前做的好一些。</p>
+
+<p>于此自勉！</p>
+
+<p><img src="http://xfun68.github.com/images/keep_calm_and_go_on_blogging.png" title="Keep Caml and Go On Blogging" alt="Keep caml and go on blogging"></p>
+
+<!-- more -->
+
+
+<p>此帖及煽情、搞笑、测试于一身。过了下面这条线，就是测试区域了。</p>
+
+<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
+
+<p>烦请客观您自重，闲人止步。:P</p>
+
+<h4>Image Tag</h4>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="p">{</span><span class="o">%</span> <span class="n">img</span> <span class="o">[</span><span class="k">class</span> <span class="n">names</span><span class="o">]</span> <span class="sr">/path/</span><span class="n">to</span><span class="o">/</span><span class="n">image</span> <span class="o">[</span><span class="n">width</span><span class="o">]</span> <span class="o">[</span><span class="n">height</span><span class="o">]</span> <span class="o">[</span><span class="n">title</span> <span class="n">text</span> <span class="o">[</span><span class="n">alt</span> <span class="n">text</span><span class="o">]]</span> <span class="o">%</span><span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p><img src="http://placekitten.com/890/280" title="Testing image tag" alt="Testing image tag"></p>
+
+<h4>Code Block</h4>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="err">$</span> <span class="n">sudo</span> <span class="n">make</span> <span class="n">me</span> <span class="n">a</span> <span class="n">sandwich</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+
+
+<figure class='code'><figcaption><span>Discover if a number is prime </span><a href='http://www.noulakaz.net/weblog/2007/03/18/a-regular-expression-to-check-for-prime-numbers/'>Source Article</a></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="k">class</span> <span class="nc">Fixnum</span>
+</span><span class='line'>  <span class="k">def</span> <span class="nf">prime?</span>
+</span><span class='line'>    <span class="p">(</span><span class="s1">&#39;1&#39;</span> <span class="o">*</span> <span class="nb">self</span><span class="p">)</span> <span class="o">!~</span> <span class="sr">/^1?$|^(11+?)\1+$/</span>
+</span><span class='line'>  <span class="k">end</span>
+</span><span class='line'><span class="k">end</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<h4>Gist Tag</h4>
+
+<div><script src='https://gist.github.com/996818.js?file='></script>
+<noscript><pre><code>@@ -590,7 +590,7 @@ class SpritesTest &lt; Test::Unit::TestCase
+  it &quot;should generate a sprite from nested folders&quot; do
+    css = render &lt;&lt;-SCSS
+-     @import &quot;nested/*.png&quot;;
++     @import &quot;nested/**/*.png&quot;;
+      @include all-nested-sprites;
+    SCSS
+    assert_correct css, &lt;&lt;-CSS</code></pre></noscript></div>
+
+
+
+
+<div><script src='https://gist.github.com/1059334.js?file=svg_bullets.rb'></script>
+<noscript><pre><code>require 'sass'
+
+module Sass::Script::Functions
+  def svg_circle(radius, color, circle_type)
+    img = if circle_type.value == &quot;disc&quot;
+      %Q{&lt;circle cx=&quot;#{radius.value}&quot; cy=&quot;#{radius.value}&quot; r=&quot;#{radius.value}&quot;
+                          stroke-width=&quot;0&quot; fill=&quot;#{color}&quot;/&gt;}
+    else
+      %Q{&lt;circle cx=&quot;#{radius.value}&quot; cy=&quot;#{radius.value}&quot; r=&quot;#{radius.value}&quot;
+                          stroke=&quot;#{color}&quot; stroke-width=&quot;1&quot; fill=&quot;white&quot;/&gt;}
+    end
+    inline_image_string(svg_circle_envelope(img).gsub(/  +/, ' '), 'image/svg+xml')
+  end
+  private
+  def svg_circle_envelope(content)
+    %Q{&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt; &lt;svg version=&quot;1.1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;#{content}&lt;/svg&gt;}
+  end
+end
+</code></pre></noscript></div>
+
+
+
+
+<div><script src='https://gist.github.com/1059334.js?file=usage.scss'></script>
+<noscript><pre><code>// Draw a list style image in svg using the radius and color specified.
+@mixin colored-bullet($radius, $color, $type: disc) {
+  list-style-type: $type;
+  list-style-image: svg-circle($radius, $color, $type);
+}
+
+
+ul {
+  @include colored-bullet(2px, $green, disc);
+  ul {
+    @include colored-bullet(2px, $green, circle);
+  }
+}
+</code></pre></noscript></div>
+
+
+<h4>Graphviz (Awesome!)</h4>
+
+<p>Liquid error: No such file or directory - dot -Tsvg -o /users/panda/code/xfun68.github.com/source/images/graphviz/g-57023c2552f7752921d58001f1867c02.svg</p>
+]]></content>
+  </entry>
+  
+</feed>

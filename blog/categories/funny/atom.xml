@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: funny | ALL is WELL]]></title>
+  <link href="http://xfun68.github.com/blog/categories/funny/atom.xml" rel="self"/>
+  <link href="http://xfun68.github.com/"/>
+  <updated>2012-08-07T21:25:28-03:00</updated>
+  <id>http://xfun68.github.com/</id>
+  <author>
+    <name><![CDATA[王晓峰(Panda Wang)]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Keep Calm and Go On Blogging]]></title>
+    <link href="http://xfun68.github.com/blog/2012/07/07/keep-calm-and-go-on-blogging/"/>
+    <updated>2012-07-07T17:00:00-03:00</updated>
+    <id>http://xfun68.github.com/blog/2012/07/07/keep-calm-and-go-on-blogging</id>
+    <content type="html"><![CDATA[<p>一直有写博客的想法，也在N久以前在Github上搭了第一个个人博客。
+可是自己三天两头半新鲜，很快就没了热情，加之自己的懒惰，博客基本上一直荒废在那。</p>
+
+<p>今天再次开张，希望比以前做的好一些。</p>
+
+<p>于此自勉！</p>
+
+<p><img src="/images/keep_calm_and_go_on_blogging.png" title="Keep Caml and Go On Blogging" alt="Keep caml and go on blogging"></p>
+
+<!-- more -->
+
+
+<p>此帖及煽情、搞笑、测试于一身。过了下面这条线，就是测试区域了。</p>
+
+<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
+
+<p>烦请客观您自重，闲人止步。:P</p>
+
+<h4>Image Tag</h4>
+
+<p><code>ruby
+<img class="[class names]" src="/path/to/image" title="[width] [height] [title text [alt text]]" >
+</code></p>
+
+<p><img src="http://placekitten.com/890/280" title="Testing image tag" alt="Testing image tag"></p>
+
+<h4>Code Block</h4>
+
+<p><code>
+$ sudo make me a sandwich
+</code></p>
+
+<p>``` ruby Discover if a number is prime http://www.noulakaz.net/weblog/2007/03/18/a-regular-expression-to-check-for-prime-numbers/ Source Article
+class Fixnum
+  def prime?</p>
+
+<pre><code>('1' * self) !~ /^1?$|^(11+?)\1+$/
+</code></pre>
+
+<p>  end
+end
+```</p>
+
+<h4>Gist Tag</h4>
+
+<p><div><script src='https://gist.github.com/996818.js?file='></script>
+<noscript><pre><code>@@ -590,7 +590,7 @@ class SpritesTest &lt; Test::Unit::TestCase
+  it &quot;should generate a sprite from nested folders&quot; do
+    css = render &lt;&lt;-SCSS
+-     @import &quot;nested/*.png&quot;;
++     @import &quot;nested/**/*.png&quot;;
+      @include all-nested-sprites;
+    SCSS
+    assert_correct css, &lt;&lt;-CSS</code></pre></noscript></div>
+</p>
+
+<p><div><script src='https://gist.github.com/1059334.js?file=svg_bullets.rb'></script>
+<noscript><pre><code>require 'sass'
+
+module Sass::Script::Functions
+  def svg_circle(radius, color, circle_type)
+    img = if circle_type.value == &quot;disc&quot;
+      %Q{&lt;circle cx=&quot;#{radius.value}&quot; cy=&quot;#{radius.value}&quot; r=&quot;#{radius.value}&quot;
+                          stroke-width=&quot;0&quot; fill=&quot;#{color}&quot;/&gt;}
+    else
+      %Q{&lt;circle cx=&quot;#{radius.value}&quot; cy=&quot;#{radius.value}&quot; r=&quot;#{radius.value}&quot;
+                          stroke=&quot;#{color}&quot; stroke-width=&quot;1&quot; fill=&quot;white&quot;/&gt;}
+    end
+    inline_image_string(svg_circle_envelope(img).gsub(/  +/, ' '), 'image/svg+xml')
+  end
+  private
+  def svg_circle_envelope(content)
+    %Q{&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt; &lt;svg version=&quot;1.1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;#{content}&lt;/svg&gt;}
+  end
+end
+</code></pre></noscript></div>
+
+<div><script src='https://gist.github.com/1059334.js?file=usage.scss'></script>
+<noscript><pre><code>// Draw a list style image in svg using the radius and color specified.
+@mixin colored-bullet($radius, $color, $type: disc) {
+  list-style-type: $type;
+  list-style-image: svg-circle($radius, $color, $type);
+}
+
+
+ul {
+  @include colored-bullet(2px, $green, disc);
+  ul {
+    @include colored-bullet(2px, $green, circle);
+  }
+}
+</code></pre></noscript></div>
+</p>
+
+<h4>Graphviz (Awesome!)</h4>
+
+<p>Liquid error: No such file or directory - dot -Tsvg -o /users/panda/code/xfun68.github.com/source/images/graphviz/g-57023c2552f7752921d58001f1867c02.svg</p>
+]]></content>
+  </entry>
+  
+</feed>
